@@ -186,14 +186,6 @@ Before deploying in public spaces:
 
 ---
 
-## 📜 License
-
-You may add a license (e.g., MIT, Apache-2.0). Example:
-
-```
-MIT License (c) 2025 Your Name
-```
-
 ---
 
 ## 🙋 Support / Contribution
